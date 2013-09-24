@@ -19,7 +19,7 @@ h1 {
 	
 	}
 
-p {
+h2 {
 	text-align: left;
 	color: #990066;
 	font-style: italic;
@@ -31,8 +31,14 @@ p {
 	
 }
 
-p 2 {
+h3 {
 	text-align: right;
 	font-style: italic;
 	font-size: 38px;
+	color: #990066;
+	border-style: inset;
+	border-width: 15px;
+	outline-color: #686868;
+	outline-width: 15px;
+	
 }
