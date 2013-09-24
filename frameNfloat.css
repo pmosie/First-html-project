@@ -2,7 +2,7 @@ html {
 	background-color: blue
 }
 
-h1{
+.special{
 	text-align: center;
 	font-size: 3em;
 	border: 25px dotted silver;
