@@ -45,7 +45,9 @@ h3 {
 
 h4 {
 	border: 8px solid #3399FF;
-	border top width: 16px;
+	border-top-width: 16px;
+	padding: 30px;
+	
 }
 	
 	
