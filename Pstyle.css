@@ -26,3 +26,8 @@ h1 {
 #content {
 	border:5px dotted #ff9900;
 }
+
+@media all and (max-width: 600px) and (orientation: landscape)
+{
+}
+
