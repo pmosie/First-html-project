@@ -27,10 +27,17 @@ h1 {
 	border:5px dotted #ff9900;
 }
 
-@media all and (max-width: 600px){
+@media all and (max-width: 600px) {
 
 	body{
 		background-color: pink;
 	}
+}
+
+@media all and (min-width: 1000px){
+h1{
+	color: yellow;
+	font: 100px;
+}
 }
 
